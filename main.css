@@ -1,0 +1,13 @@
+h3 {
+    text-align: center;
+}
+h2 {
+    font-size: 10px;
+}
+.img-responsive {
+    /* other definitions */
+    width:100%;
+}
+.logo {
+    width: 100%
+}
